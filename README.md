@@ -1,5 +1,26 @@
 # üzleti gazdaságtan
 
+## Tételek
+**elsődleges folyamatok:**
+- HR
+- marketing
+- logiszitka
+
+**másodlagos folyamatok:**
+- beszerzés
+- termelés
+- infrastruktúra
+
+|     |NEM FŰZŐDIK KÖZVETLEN ÉRDEKÜK A VÁLLALATI TELJESÍTMÉNYHEZ | KÖZVETLENÜL ÉRDEKELTEK A VÁLLALATI TELJESÍTMÉNYBEN|
+|:---:|:----:|:---:|
+|NEM/NEHEZEN TUDJÁKÉRDEKEIKET ÉRVÉNYESÍTENI | helyi közösség civil csoportok sajtó, média | alkalmazottak vevők beszállítók versenytársak|
+|KÖNNYEN TUDJÁK ÉRDEKEIKET ÉRVÉNYESÍTENI | helyi önkormányzat politikai szféra szereplői | tulajdonosok/részvényesek befektetők/hitelezők vezetők |
+
+
+
+
+---
+
 ## Az üzleti gazdaságtan 
 > Az üzleti vállalkozások és a szervezeti struktúrák sokféleségét, valamint a cégek munka-, tőke- és termékpiacokkal való kapcsolatát elemzi.  A gazdasági egységek folyamatait vizsgálja. A vállalatot működő rendszerként értelmezi, és mint az alrendszereivel és a környezettel való kölcsönhatásban működő rendszert vizsgálja.
 
