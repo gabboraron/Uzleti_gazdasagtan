@@ -149,6 +149,64 @@
 >  
 
 
+# ZH kidolgozások
+### profitorintált vállalkozások csoportosítási kritériumai:
+### stratégia négy fő tulajdonsága
+### porter féle öt tényezős modell
+### döntési kritérium a jövedelmezőségi indexnél
+### mi a különbség a számviteli és gazdáslkodási szempontú költségtartalom között?
+### mi a haszonáldozati költség?
+
+
+## I/H
+### Azon piacok ahol a kereslet renszeresen meghaladja a íknálatot nyomásos vagy  vevői piacnka nevezzük?
+### a marketing a válllalat piaci kapcdolatit fejleszt és megvalószító funkciók összessége
+### a realizált hozamot kibocsátásnak nevetzzük?
+### a legkisebb önköltséggel történő termékelőállítás a vállakozás sázmára a mindig a legnagyobb jöedlemet eredményezi?
+### az egyéni vállakozó felelőssége korlátozozz?
+### a determisztikus erőforrások lekötése a ttermelés mnennyiségétől  és összeségétől függ?
+### Az ismeret a fogalmak általánosítások és tapasztaltok összessége
+### ha egy eszköz könyv szerinti érétke a piaci érték alatt van értékhelyesbítjük
+### az implicit tudás leírható formába önthető dokumentumokban adatbázisokban rögzíthető
+### egy hatékony piacon tartósan csak normál profitot érhetnek el a vállalatok
+
+## Feladatok
+### 1.
+> - kertitörpék
+> - 15000 db gyártását tervezi
+> - mi a fedezti pont és fedezeti ár?
+> - 20000 db rendelése esetén mekkora maximum árengedményt adhatunk, hogy ne legyen veszteség?
+> 
+> 
+> - változó ktg: 75 000
+> - állandó ktg: 40 000
+> - árbevétel: 125 000
+> 
+> 
+> `(egységár - változó_költség_egységenként) x mennyiség = fix_költség_egységenként + nyereség`
+> 
+> - `változó_költség_egységenként` = 75000/15000 = 5/db => 5000
+> - `fix_költség_egységenként` = 40000/15000 = 2,(6)/db => 2666
+> - `egységár`= 125000 /15000 = 8,(3)/db => 8333
+> 
+> -----
+> 
+> - fedezeti pont => `(egységár - változó_költség_egységenként) x Q = fix_költség_egységenként + 0` => `(8333 - 5000) x Q = 2666 + 0` => `Q = 0,7998`
+> - fedezeti ár => `(Q - változó_költség_egységenként) x mennyiség = fix_költség_egységenként + 0` => `(Q - 5000) x 15000 = 2666 + 0` => `Q = 5000,1777(3)`
+> - maximum adható diszkont 20 000-es rendelésnél => `(egységár x Q - változó_költség_egységenként) x mennyiség = fix_költség_egységenként + 0` => `(8333 x Q - 5000) x 20000 = 2666 + 0` => `Q = 0,6`
+
+### 2.
+> 110 000Ft jövőbeni értéke 1 és 3 év múlva ha a névleges kamatláb 24%; konverziós periódus 1 év, fél év, negyed év és 1 hónap
+> 
+> | kamatozási időszak | m | r(%) | 100e Ft 1 év múlva |  100e Ft 3 év múlva |
+> |:-------------:|:---------:|:-------:|:-----------------------------------------------:|:----------------------------------------------------:|
+> | **egy év**    |  **1**    | **24**  | `C*(1+r)^t` = `100 000*(1+0,24)^1` = **124 000**  | `C*(1+r)^t` = `100 000 * (1+0,24)^3` = **190662,4**    | 
+> | **fél év**    |  **2**    | `r = ((1+r/m)^m)-1` = `((1+0,24/2)^2)-1` = **0,2544** | `C*(1+r)^t` = `100 000*(1,2544)^1` = **125440**    | `100 000*(1,2544)^3` = **197382,2685184**    |
+> | **negyedév**  |  **4**    | `r = ((1+r/m)^m)-1` = `((1+0,24/4)^4)-1` = **0,2624** | `C*(1+r)^t` = `100 000*(1,2624)^1` = **126240**    | `100 000*(1,2624)^3` = **201182.850662**    |
+> | **egy hónap** |  **12**   | `r = ((1+r/m)^m)-1` = `((1+0,24/12)^12)-1` = **0.2682**  | `C*(1+r)^t` = `100 000*(1,2682)^1` = **126820** |  `100 000*(1,2682)^3` = **203968.567857**  |
+
+
+
 
 
 
